@@ -1,6 +1,6 @@
 Block b1, b2;
 double count = 0;
-int numDigits = 6;
+int numDigits = 8;
 double steps = pow(10,numDigits-1.5);
 void setup() {
   size(600, 250);
